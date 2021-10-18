@@ -1,0 +1,45 @@
+[PUZZLE DIFFICULTY: 1]
+BFS SEARCH SOLUTION
+Total of 61 states visited.
+BFS Time: 773400 nano seconds.
+-------------------------------------------
+DFS SEARCH SOLUTION
+Total of 12 states visited.
+DFS Time: 1922100 nano seconds.
+
+[PUZZLE DIFFICULTY: 2]
+BFS SEARCH SOLUTION
+Total of 78 states visited.
+BFS Time: 395300 nano seconds.
+-------------------------------------------
+DFS SEARCH SOLUTION
+Total of 116 states visited.
+DFS Time: 530100 nano seconds.
+
+[PUZZLE DIFFICULTY: 3]
+BFS SEARCH SOLUTION
+Total of 499 states visited.
+BFS Time: 1331600 nano seconds.
+-------------------------------------------
+DFS SEARCH SOLUTION
+Total of 26 states visited.
+DFS Time: 123600 nano seconds.
+
+[PUZZLE DIFFICULTY: 4]
+BFS SEARCH SOLUTION
+Total of 2510 states visited.
+BFS Time: 3980100 nano seconds.
+-------------------------------------------
+DFS SEARCH SOLUTION
+Total of 59414 states visited.
+DFS Time: 71799900 nano seconds.
+
+[PUZZLE DIFFICULTY: 5]
+BFS SEARCH SOLUTION
+Total of 181440 states visited.
+BFS Time: 235770800 nano seconds.
+-------------------------------------------
+DFS SEARCH SOLUTION
+Total of 42554 states visited.
+DFS Time: 16552900 nano seconds.
+
